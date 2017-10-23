@@ -1,0 +1,48 @@
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe.config
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.pdb
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\bin\Debug\database.dll
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\bin\Debug\database.pdb
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Form1.resources
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Properties.Resources.resources
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csproj.GenerateResource.Cache
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.exe
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\bin\Debug\database.dll
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\bin\Debug\database.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Form1.resources
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Properties.Resources.resources
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csproj.GenerateResource.Cache
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.exe
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\bin\Debug\database.dll
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csproj.GenerateResource.Cache
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\bin\Debug\DataBaseServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\bin\Debug\database.dll
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csproj.GenerateResource.Cache
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\DataBaseServer\obj\x86\Debug\DataBaseServer.csproj.GenerateResource.Cache
