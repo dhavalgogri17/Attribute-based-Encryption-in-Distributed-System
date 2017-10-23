@@ -1,0 +1,55 @@
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe.config
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\bin\Debug\SystemSetup.pdb
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.dll
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.pdb
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csprojResolveAssemblyReference.cache
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Form1.resources
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Properties.Resources.resources
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csproj.GenerateResource.Cache
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.exe
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.pdb
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\bin\Debug\database.dll
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\SystemSetup\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.exe
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\bin\Debug\SystemSetup.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\bin\Debug\database.dll
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.dll
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csproj.GenerateResource.Cache
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe.config
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\bin\Debug\SystemSetup.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\bin\Debug\database.dll
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.dll
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\bin\Debug\database.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csprojResolveAssemblyReference.cache
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Form1.resources
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Properties.Resources.resources
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csproj.GenerateResource.Cache
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.exe
+C:\Users\Mitesh\Desktop\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\bin\Debug\SystemSetup.exe
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\bin\Debug\SystemSetup.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\bin\Debug\database.dll
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.dll
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\bin\Debug\lambda_pointAddition.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csproj.GenerateResource.Cache
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.exe
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.pdb
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\SystemSetup\obj\x86\Debug\SystemSetup.csproj.GenerateResource.Cache
