@@ -1,0 +1,68 @@
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\obj\x86\Debug\businessServer.csprojResolveAssemblyReference.cache
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\obj\x86\Debug\businessServer.Form1.resources
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\obj\x86\Debug\businessServer.Properties.Resources.resources
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\obj\x86\Debug\businessServer.csproj.GenerateResource.Cache
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\bin\Debug\businessServer.exe.config
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\bin\Debug\businessServer.exe
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\bin\Debug\businessServer.pdb
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.dll
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.pdb
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\obj\x86\Debug\businessServer.exe
+c:\users\mitesh\documents\visual studio 2010\Projects\parametersRequired\businessServer\obj\x86\Debug\businessServer.pdb
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\businessServer\bin\Debug\database.dll
+C:\Users\Mitesh\Documents\Visual Studio 2010\Projects\parametersRequired\businessServer\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\bin\Debug\businessServer.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\bin\Debug\businessServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\bin\Debug\businessServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\bin\Debug\database.dll
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.dll
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.pdb
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.csproj.GenerateResource.Cache
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\bin\Debug\businessServer.exe.config
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.exe
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\bin\Debug\businessServer.exe
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\bin\Debug\businessServer.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\bin\Debug\database.dll
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.dll
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\bin\Debug\database.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.pdb
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.Form1.resources
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.Properties.Resources.resources
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.csproj.GenerateResource.Cache
+C:\Users\Mitesh\Desktop\parametersRequired\businessServer\obj\x86\Debug\businessServer.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\bin\Debug\businessServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\bin\Debug\businessServer.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.csproj.GenerateResource.Cache
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\bin\Debug\database.dll
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.dll
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.pdb
+C:\Users\DHAVAL GOGRI\Desktop\and final project\parametersRequired\businessServer\bin\Debug\businessServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\bin\Debug\businessServer.exe.config
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\obj\x86\Debug\businessServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\obj\x86\Debug\businessServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\bin\Debug\businessServer.exe
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\bin\Debug\businessServer.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\bin\Debug\database.dll
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.dll
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\bin\Debug\database.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\bin\Debug\lambda_pointAddition.pdb
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\obj\x86\Debug\businessServer.csprojResolveAssemblyReference.cache
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\obj\x86\Debug\businessServer.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\obj\x86\Debug\businessServer.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\BE Project\parametersRequired\businessServer\obj\x86\Debug\businessServer.csproj.GenerateResource.Cache
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.Form1.resources
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.Properties.Resources.resources
+C:\Users\DHAVAL GOGRI\Desktop\final project\parametersRequired\businessServer\obj\x86\Debug\businessServer.csproj.GenerateResource.Cache
